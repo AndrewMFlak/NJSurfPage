@@ -1,0 +1,17 @@
+body {
+    background-image: url(../images/belmarBeachDrone.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.headerDiv {
+    background-color: cyan;
+    border: 2px solid gray;
+    width: 350px;
+    height: 20%;
+    transform: rotate(20deg);
+    text-align: center;
+}
+.jerseySurf {
+    height: 60%;
+    width: 100%;
+}
