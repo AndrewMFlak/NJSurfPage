@@ -14,9 +14,28 @@ body {
     text-align: center;
 }
 .nav {
+    background-color: cyan;
+    width: 100%;
+    height: 15%;
+    color: black;
+    font-size: 12px;
+    border-bottom: 3px solid gray;
+}
+.Title {
+    color: black;
+    margin: auto;
     text-align: center;
+
+}
+.links {
+    float: right;
+    color: black;
+    width: 30%;
+
 }
 .surfContainer {
+    clear: both;
+    overflow: auto;
     width: 20%;
     background-color: cyan;
     margin: 25% auto 25% auto;
@@ -25,7 +44,9 @@ body {
 }
 .jerseySurf {
     height: 60%;
-    width: 100%;
-    margin-top: 40%;
-    transform: rotate(20deg);
+    width: 40%;
+    /* transform: rotate(20deg); */
+    background-color: cyan;
+    margin: 40% auto auto auto;
+    
 }
